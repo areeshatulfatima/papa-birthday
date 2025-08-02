@@ -151,16 +151,16 @@
         <h1 class="birthday-text">Happy Birthday!</h1>
         <div class="name">Papa</div>
         <p class="wish-text">
-            Wishing the most amazing dad a fantastic birthday! Thank you for all the wisdom, 
-            love, and dad jokes over the years. Hope your special day is filled with everything 
+            Wishing the most amazing papa a fantastic birthday! Thank you for all the wisdom, 
+            love, and papa jokes over the years. Hope your special day is filled with everything 
             you enjoy most - maybe some peace, your favorite food, and time to relax!
         </p>
-        <button class="cake-button" onclick="showSurprise()">🎂 Dad's Special Message!</button>
+        <button class="cake-button" onclick="showSurprise()">🎂 Papa's Special Message!</button>
         <button class="cake-button" onclick="createConfetti()">🎊 Celebration Time!</button>
         
         <div class="surprise-message" id="surprise">
-            <h3>🏆 To the Best Dad Ever 🏆</h3>
-            <p>Thanks for being our rock, our guide, and our biggest supporter. You've taught us so much and made every day better just by being you. Here's to another year of your awesome dad energy!</p>
+            <h3>🏆 To the Best Papa Ever 🏆</h3>
+            <p>Thanks for being our rock, our guide, and our biggest supporter. You've taught us so much and made every day better just by being you. Here's to another year of your awesome papa energy!</p>
         </div>
     </div>
 
